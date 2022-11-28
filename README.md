@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liulin Zeng
-- 👀 I’m a senior student
+- 👀 I’m a senior student from University of Rochester
 - 🌱 I’m majoring in Business Analytics and Statistics
 - 📫 Reach me by Email: lzeng6@u.rochester.edu
 
